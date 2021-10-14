@@ -35,4 +35,4 @@ Para -> PinterestLayout
 
 ![plot](img6.png)
  
-En div se llama los tamaños que va a tomar la imagen.
+En el div se llama los tamaños que va a tomar la imagen.
