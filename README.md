@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Parcial
+Parcial #2 
+Front-and Devepolment
+Integrantes:
+Heidi Yohana Díaz Álzate
+Jhon Steven Penilla
+Planeación
+Para -> HeaderLayout 
+## Escritorio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![plot](img1.png)
+ 
+Se creó un div donde esta contiene todos los botones, etiquetas e iconos además acada uno de ellos tiene si etiqueta div. Dentro de otro div están la barra de búsqueda y el icono de la lupa.
+## Celular
 
-## Available Scripts
+![plot](img2.png)
+ 
+Para la pantalla de celular cada uno de los botones tiene su propio div, aparte de que están en otro div que los contiene, además el botón para ti no está en un div , si no en un spam, pero está en el mismo contenedor con los otros botones.
 
-In the project directory, you can run:
+![plot](img3.png)
+ 
+Los iconos están en su respectivo div y tienen un div de contenedor. 
+Para -> PinCard
 
-### `npm start`
+![plot](img4.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+-------------------------------------------
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![plot](img5.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Se creó un contenedor que es tiene la imagen y este a su vez también tienen otro div que contienen los botones de la imagen. Cada botón e icono tienen su propio div. También para el texto.
 
-### `npm run build`
+Para -> PinterestLayout
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![plot](img6.png)
+ 
+En div se llama los tamaños que va a tomar la imagen.
